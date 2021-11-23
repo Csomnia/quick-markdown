@@ -1,12 +1,12 @@
 var Config = {
     docRoot: 'pages/',
-    homepage: 'docs/index.md',
-    defaultTitle: 'quick-markdown',
+    homepage: 'blog/index.md',
+    defaultTitle: '小蜂的博客2号',
     notFoundText: '',
     notFoundPage: '',
     theme: 'default',
     showFooterText: true,
-    footerText: ''
+    footerText: 'Blogging by crq'
 }
 
 if (typeof module === 'object') {
